@@ -42,7 +42,6 @@ export class App extends Component {
     return (
       <div
         style={{
-          // height: '100vh',
           fontSize: 20,
           color: '#010101',
           margin: 30,
